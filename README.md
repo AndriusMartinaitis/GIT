@@ -1,0 +1,5 @@
+# Mokomes GIT
+
+
+repozitorijos aprasymas
+
